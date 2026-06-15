@@ -6,7 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Educativo/EDU_Intro.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Educativo/EDU_Nivel1.unity
+    guid: 9ca373e5d1063b44090c555c3689fcff
+  - enabled: 1
+    path: Assets/Scenes/Educativo/EDU_Nivel2.unity
+    guid: dae9c11992ef84b48a932028f6dc086e
+  - enabled: 1
+    path: Assets/Scenes/Educativo/EDU_Nivel3.unity
+    guid: bd01a395a23cb9844a4141dce1275818
+  - enabled: 1
+    path: Assets/Scenes/Educativo/EDU_Resumen.unity
+    guid: 18335bef05f22874c9eb8ef6933666cd
+  - enabled: 1
+    path: Assets/Scenes/Medico/MED_Intro.unity
+    guid: e9572a62258ad5148991a3707ebb7a3e
+  - enabled: 1
+    path: Assets/Scenes/Medico/MED_Nivel1.unity
+    guid: 8ea74c5477544ff498a3f4e6c7b15c8c
+  - enabled: 1
+    path: Assets/Scenes/Medico/MED_Nivel2.unity
+    guid: 9b1eeef49c2a3d448a5aabb50cd5d3b4
+  - enabled: 1
+    path: Assets/Scenes/Medico/MED_Nivel3.unity
+    guid: 9b5cf9ad590baae47af741f549c99cc9
+  - enabled: 1
+    path: Assets/Scenes/Medico/MED_Resumen.unity
+    guid: 754936cbd12aed348875533898c79a63
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9ff847f76a8234e44b42bf7dc4662a9b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 671ad7547fb1db4469ee6b65db6067d6, type: 2}
